@@ -16,43 +16,36 @@ Welcome to my GitHub profile! I'm Zaid Al Habbal, a passionate Third-year ITE st
 ## 🛠️ Skills
 
 ### Programming Languages
-- C++
-- Python
-- GLSL (OpenGL Shading Language)
-- PHP
-- Java
+[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
+[![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![GLSL](https://img.shields.io/badge/GLSL-%23FFA500.svg?style=for-the-badge&logo=opengl&logoColor=white)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
   
 
 ### Technologies
-- Django
-- OpenGL Core Profile
-- Laravel
-
----
-
-## 🌟 Featured Projects
-
-### [ChamCity3D](https://github.com/Zaid-Al-Habbal/ChamCity3D)
-- 🌆 **Overview**: An open-source project simulating the iconic Cham City Center in Damascus.
-- ✨ **Highlights**:
-  - Detailed 3D environment modeling.
-  - Dynamic lighting and realistic textures.
-  - Interactive camera controls.
-- 📖 **Tech Stack**: OpenGL, C++, GLSL
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)](https://www.opengl.org/)  
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)  
 
 ---
 
 ## 📚 What I’m Learning
 
-- Python and Django Rest Framework
+- Python & Django Rest Framework
 
 ---
+## Current Daily Drivers:
+
+[![Fedora Workstation](https://img.shields.io/badge/Fedora%20Workstation-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
+
 
 ## 📫 How to Reach Me
 
-- Email: alhabbalzaid10@gmail.com
-- LinkedIn: www.linkedin.com/in/zaid-al-habbal-037525263
-- Telegram: https://t.me/Zaid_Al_Habbal
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhabbalzaid10@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zaid-al-habbal-037525263)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zaid_Al_Habbal)  
 
 ---
 
