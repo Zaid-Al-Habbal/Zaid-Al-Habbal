@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm Zaid Al Habbal, a passionate Third-year ITE st
 ---
 ## Current Daily Drivers:
 
-![Debian 12](https://img.shields.io/badge/Debian%2012-orange?style=for-the-badge&link=https%3A%2F%2Fwww.debian.org%2F)
+[![Debian 12](https://img.shields.io/badge/Debian%2012-orange?style=for-the-badge)](https://www.debian.org/)
 
 ## 📫 How to Reach Me
 
