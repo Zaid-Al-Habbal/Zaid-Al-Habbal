@@ -38,8 +38,7 @@ Welcome to my GitHub profile! I'm Zaid Al Habbal, a passionate Third-year ITE st
 ---
 ## Current Daily Drivers:
 
-[![Fedora Workstation](https://img.shields.io/badge/Fedora%20Workstation-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
-
+![Debian 12](https://img.shields.io/badge/Debian%2012-orange?style=for-the-badge&link=https%3A%2F%2Fwww.debian.org%2F)
 
 ## 📫 How to Reach Me
 
