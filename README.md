@@ -38,7 +38,8 @@ Welcome to my GitHub profile! I'm Zaid Al Habbal, a passionate Third-year ITE st
 ---
 ## Current Daily Drivers:
 
-[![Debian 12](https://img.shields.io/badge/Debian%2012-orange?style=for-the-badge)](https://www.debian.org/)
+[![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%237D4698.svg?style=for-the-badge&logo=endeavouros&logoColor=white)](https://endeavouros.com/)  
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 
 ## 📫 How to Reach Me
 
