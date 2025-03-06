@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Ahlean Habiby! 👋
 
 Welcome to my GitHub profile! I'm Zaid Al Habbal, a passionate Third-year ITE student. Here's a glimpse into what I know and use:
 
@@ -44,6 +44,8 @@ Welcome to my GitHub profile! I'm Zaid Al Habbal, a passionate Third-year ITE st
 ## 📫 How to Reach Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhabbalzaid10@gmail.com)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Zaid_Al_Habbal)  
+[![AtCoder](https://img.shields.io/badge/AtCoder-%23003D73.svg?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Zaid_Al_Habbal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zaid-al-habbal-037525263)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zaid_Al_Habbal)  
 
