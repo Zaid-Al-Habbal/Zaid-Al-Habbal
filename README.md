@@ -40,6 +40,15 @@ Welcome to my GitHub profile! I'm Zaid Al Habbal, a passionate Third-year ITE st
 
 ---
 
+## GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaid-Al-Habbal&show_icons=true&theme=catppuccin_mocha)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Al-Habbal&layout=compact&langs_count=8&theme=catppuccin_mocha)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=catppuccin_mocha)
+
+
 ## 🌐 Let’s Connect
 
 You can explore my repositories and contribute to open-source projects. Let’s collaborate and make something amazing together!
