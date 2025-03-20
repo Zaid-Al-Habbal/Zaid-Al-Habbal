@@ -42,11 +42,11 @@ Welcome to my GitHub profile! I'm Zaid Al Habbal, a passionate Third-year ITE st
 
 ## GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaid-Al-Habbal&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaid-Al-Habbal&show_icons=true&theme=shadow_green)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Al-Habbal&layout=compact&langs_count=8&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Al-Habbal&layout=compact&langs_count=8&theme=shadow_green)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=shadow_green)
 
 ---
 
