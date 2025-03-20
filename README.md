@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm Zaid Al Habbal, a passionate Third-year ITE st
 
 ## 🚀 About Me
 
-- 🌱 **Currently Building**: ChamCity3D, a simulation of Cham City Center, a mall in Damascus, Syria.
-- 🎨 **Specialties**: Back-end development and Computer graphics.
+- 🌱 **Currently Building**: Just Write it, a blog website using Django.
+- 🎨 **Specialties**: Back-end development.
 - 💡 **Interests**: Software development & AI.
 - 📍 **Location**: Based in Damascus, Syria.
 
