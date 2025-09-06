@@ -3,7 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Ahlean+Habiby!+👋;Welcome+to+Zaid+Al+Habbal's+Hub;fourth-Year+ITE+Student;Back-End+%7C+AI+%7C+3D+Simulations" alt="Typing SVG" />
 </h1>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
+</p>
+
 
 ## 🚀 About Me
 
@@ -14,7 +17,10 @@ software development, AI, and 3D simulations.
 - 🎨 **Specialties**: Back-end development, AI.  
 - 📍 **Location**: Damascus, Syria.  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
+</p>
+
 
 ## 🛠️ Skills  
 
@@ -27,7 +33,10 @@ software development, AI, and 3D simulations.
 [![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=00F0FF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![TypeScript](https://img.shields.io/badge/TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=00F0FF)](https://www.typescriptlang.org/)  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
+</p>
+
 
 ### 🧩 Technologies  
 [![Django](https://img.shields.io/badge/Django-0A192F?style=for-the-badge&logo=django&logoColor=00F0FF)](https://www.djangoproject.com/)  
@@ -35,31 +44,46 @@ software development, AI, and 3D simulations.
 [![Laravel](https://img.shields.io/badge/Laravel-0A192F?style=for-the-badge&logo=laravel&logoColor=00F0FF)](https://laravel.com/)  
 [![Three.js](https://img.shields.io/badge/Three.js-0A192F?style=for-the-badge&logo=three.js&logoColor=00F0FF)](https://threejs.org/)  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
+</p>
+
 
 ### 🗄️ Databases  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=00F0FF)](https://www.postgresql.org/)  
 [![MySQL](https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=00F0FF)](https://www.mysql.com/)  
 [![SQLite](https://img.shields.io/badge/SQLite-0A192F?style=for-the-badge&logo=sqlite&logoColor=00F0FF)](https://www.sqlite.org/)  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
+</p>
+
 
 ### 🔧 Tools  
 [![Docker](https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=00F0FF)](https://www.docker.com/)  
 [![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=00F0FF)](https://git-scm.com/)  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
+</p>
+
 
 ## 📚 Currently Learning  
 ✨ Python & Django Rest Framework ✨  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
+</p>
+
 
 ## 🐧 Daily Drivers  
 [![EndeavourOS](https://img.shields.io/badge/EndeavourOS-0A192F?style=for-the-badge&logo=endeavouros&logoColor=00F0FF)](https://endeavouros.com/)  
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-0A192F?style=for-the-badge&logo=arch-linux&logoColor=00F0FF)](https://archlinux.org/)  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
+</p>
+
 
 ## 📫 How to Reach Me  
 
@@ -69,17 +93,17 @@ software development, AI, and 3D simulations.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/zaid-al-habbal-037525263)  
 [![Telegram](https://img.shields.io/badge/Telegram-0A192F?style=for-the-badge&logo=telegram&logoColor=00F0FF)](https://t.me/Zaid_Al_Habbal)  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
+</p>
+
 
 ## 📊 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Al-Habbal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=00F0FF&text_color=FFFFFF) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=tokyonight&hide_border=true&background=0A192F&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF)  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Zaid-Al-Habbal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Al-Habbal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=00F0FF&text_color=FFFFFF)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=tokyonight&hide_border=true&background=0A192F&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF)  
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
+</p>
 
 <h2 align="center"> 🌐 Connect with Me </h2>
 <p align="center">
