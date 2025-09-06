@@ -1,61 +1,89 @@
-# Ahlean Habiby! 👋
-
-Welcome to my GitHub profile! I'm Zaid Al Habbal, a passionate Third-year ITE student. Here's a glimpse into what I know and use:
+<!-- Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Ahlean+Habiby!+👋;Welcome+to+Zaid+Al+Habbal's+Hub;fourth-Year+ITE+Student;Back-End+%7C+AI+%7C+3D+Simulations" alt="Typing SVG" />
+</h1>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 **Currently Building**: Just Write it, a blog website using Django.
-- 🎨 **Specialties**: Back-end development.
-- 💡 **Interests**: Software development & AI.
-- 📍 **Location**: Based in Damascus, Syria.
+💡 I’m **Zaid Al Habbal**, a passionate fourth-year ITE student exploring the worlds of  
+software development, AI, and 3D simulations.  
+
+- 🌱 **Currently Building**: *Oxytocin* — a digital medical platform using DRF.  
+- 🎨 **Specialties**: Back-end development, AI.  
+- 📍 **Location**: Damascus, Syria.  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills  
 
-### Programming Languages
-[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  [![GLSL](https://img.shields.io/badge/GLSL-%23FFA500.svg?style=for-the-badge&logo=opengl&logoColor=white)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-
-  
-
-### Technologies
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) [![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)](https://www.opengl.org/)  [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)  
-
----
-
-### Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)  
-
-### Tools
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
-
-## 📚 What I’m Learning
-
-- Python & Django Rest Framework
-
----
-## Current Daily Drivers:
-
-[![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%237D4698.svg?style=for-the-badge&logo=endeavouros&logoColor=white)](https://endeavouros.com/)  [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-
-## 📫 How to Reach Me
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Zaid_Al_Habbal)  [![AtCoder](https://img.shields.io/badge/AtCoder-%23003D73.svg?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Zaid_Al_Habbal) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhabbalzaid10@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zaid-al-habbal-037525263) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zaid_Al_Habbal)  
+### 👨‍💻 Programming Languages  
+[![C++](https://img.shields.io/badge/C%2B%2B-0A192F?style=for-the-badge&logo=c%2B%2B&logoColor=00F0FF)](https://isocpp.org/)  
+[![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=00F0FF)](https://www.python.org/)  
+[![GLSL](https://img.shields.io/badge/GLSL-0A192F?style=for-the-badge&logo=opengl&logoColor=00F0FF)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))  
+[![Java](https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=java&logoColor=00F0FF)](https://www.java.com/)  
+[![PHP](https://img.shields.io/badge/PHP-0A192F?style=for-the-badge&logo=php&logoColor=00F0FF)](https://www.php.net/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=00F0FF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=00F0FF)](https://www.typescriptlang.org/)  
 
 ---
 
-## GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zaid-Al-Habbal&show_icons=true&theme=shadow_green)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Al-Habbal&layout=compact&langs_count=8&theme=shadow_green)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=shadow_green)
+### 🧩 Technologies  
+[![Django](https://img.shields.io/badge/Django-0A192F?style=for-the-badge&logo=django&logoColor=00F0FF)](https://www.djangoproject.com/)  
+[![OpenGL](https://img.shields.io/badge/OpenGL-0A192F?style=for-the-badge&logo=opengl&logoColor=00F0FF)](https://www.opengl.org/)  
+[![Laravel](https://img.shields.io/badge/Laravel-0A192F?style=for-the-badge&logo=laravel&logoColor=00F0FF)](https://laravel.com/)  
+[![Three.js](https://img.shields.io/badge/Three.js-0A192F?style=for-the-badge&logo=three.js&logoColor=00F0FF)](https://threejs.org/)  
 
 ---
 
-## 🌐 Let’s Connect
+### 🗄️ Databases  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=00F0FF)](https://www.postgresql.org/)  
+[![MySQL](https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=00F0FF)](https://www.mysql.com/)  
+[![SQLite](https://img.shields.io/badge/SQLite-0A192F?style=for-the-badge&logo=sqlite&logoColor=00F0FF)](https://www.sqlite.org/)  
 
-You can explore my repositories and contribute to open-source projects. Let’s collaborate and make something amazing together!
+---
+
+### 🔧 Tools  
+[![Docker](https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=00F0FF)](https://www.docker.com/)  
+[![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=00F0FF)](https://git-scm.com/)  
+
+---
+
+## 📚 Currently Learning  
+✨ Python & Django Rest Framework ✨  
+
+---
+
+## 🐧 Daily Drivers  
+[![EndeavourOS](https://img.shields.io/badge/EndeavourOS-0A192F?style=for-the-badge&logo=endeavouros&logoColor=00F0FF)](https://endeavouros.com/)  
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-0A192F?style=for-the-badge&logo=arch-linux&logoColor=00F0FF)](https://archlinux.org/)  
+
+---
+
+## 📫 How to Reach Me  
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-0A192F?style=for-the-badge&logo=codeforces&logoColor=00F0FF)](https://codeforces.com/profile/Zaid_Al_Habbal)  
+[![AtCoder](https://img.shields.io/badge/AtCoder-0A192F?style=for-the-badge&logo=atcoder&logoColor=00F0FF)](https://atcoder.jp/users/Zaid_Al_Habbal)  
+[![Email](https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:alhabbalzaid10@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/zaid-al-habbal-037525263)  
+[![Telegram](https://img.shields.io/badge/Telegram-0A192F?style=for-the-badge&logo=telegram&logoColor=00F0FF)](https://t.me/Zaid_Al_Habbal)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Zaid-Al-Habbal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Al-Habbal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=00F0FF&text_color=FFFFFF)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=tokyonight&hide_border=true&background=0A192F&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF)  
+
+---
+
+<h2 align="center"> 🌐 Connect with Me </h2>
+<p align="center">
+  <a href="https://t.me/Zaid_Al_Habbal"><img src="https://img.shields.io/badge/Telegram-0A192F?style=for-the-badge&logo=telegram&logoColor=00F0FF" /></a>
+  <a href="mailto:alhabbalzaid10@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A192F?style=for-the-badge&logo=gmail&logoColor=00F0FF" /></a>
+  <a href="https://www.linkedin.com/in/zaid-al-habbal-037525263"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+</p>  
