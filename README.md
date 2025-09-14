@@ -79,6 +79,11 @@ software development, AI, and 3D simulations.
 ## 🐧 Daily Drivers  
 [![EndeavourOS](https://img.shields.io/badge/EndeavourOS-0A192F?style=for-the-badge&logo=endeavouros&logoColor=00F0FF)](https://endeavouros.com/)  
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-0A192F?style=for-the-badge&logo=arch-linux&logoColor=00F0FF)](https://archlinux.org/)  
+[![Kubuntu](https://img.shields.io/badge/Kubuntu-0A192F?style=for-the-badge\&logo=kubuntu\&logoColor=00F0FF)](https://kubuntu.org/)    
+[![Windows](https://img.shields.io/badge/Windows-0A192F?style=for-the-badge\&logo=windows\&logoColor=00F0FF)](https://www.microsoft.com/windows)    
+[![Fedora](https://img.shields.io/badge/Fedora-0A192F?style=for-the-badge\&logo=fedora\&logoColor=00F0FF)](https://getfedora.org/)    
+[![Debian](https://img.shields.io/badge/Debian-0A192F?style=for-the-badge\&logo=debian\&logoColor=00F0FF)](https://www.debian.org/)   
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
@@ -89,9 +94,9 @@ software development, AI, and 3D simulations.
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-0A192F?style=for-the-badge&logo=codeforces&logoColor=00F0FF)](https://codeforces.com/profile/Zaid_Al_Habbal)  
 [![AtCoder](https://img.shields.io/badge/AtCoder-0A192F?style=for-the-badge&logo=atcoder&logoColor=00F0FF)](https://atcoder.jp/users/Zaid_Al_Habbal)  
-[![Email](https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:alhabbalzaid10@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/zaid-al-habbal-037525263)  
-[![Telegram](https://img.shields.io/badge/Telegram-0A192F?style=for-the-badge&logo=telegram&logoColor=00F0FF)](https://t.me/Zaid_Al_Habbal)  
+[![Email](https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:alhabbalzaid10@gmail.com)         
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/zaid-al-habbal-037525263)       
+[![Telegram](https://img.shields.io/badge/Telegram-0A192F?style=for-the-badge&logo=telegram&logoColor=00F0FF)](https://t.me/Zaid_Al_Habbal)   
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
