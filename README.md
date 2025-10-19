@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Ahlean+Habiby!+👋;Welcome+to+Zaid+Al+Habbal's+Hub;fourth-Year+ITE+Student;Back-End+%7C+AI+%7C+3D+Simulations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Ahlean+Habiby!+;Welcome+to+Zaid+Al+Habbal's+Hub;fourth-Year+ITE+Student;Back-End+%7C+AI+%7C+3D+Simulations" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -75,7 +75,7 @@ Machine Learning
 </p>
 
 
-## 🐧 Daily Drivers    
+## Daily Drivers    
 [![Kubuntu](https://img.shields.io/badge/Kubuntu-0A192F?style=for-the-badge\&logo=kubuntu\&logoColor=00F0FF)](https://kubuntu.org/)    
 
 <p align="center">
@@ -83,7 +83,7 @@ Machine Learning
 </p>
 
 
-## 📫 How to Reach Me  
+## How to Reach Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/zaid-al-habbal-037525263)       
 [![Email](https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:alhabbalzaid10@gmail.com)         
@@ -96,7 +96,7 @@ Machine Learning
 </p>
 
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Al-Habbal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=00F0FF&text_color=FFFFFF) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=tokyonight&hide_border=true&background=0A192F&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF)  
 
 <p align="center">
