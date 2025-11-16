@@ -10,10 +10,9 @@
 
 ## About Me
 
-I’m **Zaid Al Habbal**, a passionate fourth-year ITE student exploring the worlds of  
-software development, AI, and 3D simulations.  
+I’m **Zaid Al Habbal**, a fourth-year ITE student exploring the worlds of AI.
 
-- **Specialties**: Back-end development, AI.  
+- **Specialties**: AI, Back-end development, Computer Graphics.  
 - **Location**: Damascus, Syria.  
 
 <p align="center">
@@ -24,13 +23,13 @@ software development, AI, and 3D simulations.
 ## Skills  
 
 ### Programming Languages  
-[![C++](https://img.shields.io/badge/C%2B%2B-0A192F?style=for-the-badge&logo=c%2B%2B&logoColor=00F0FF)](https://isocpp.org/)  
 [![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=00F0FF)](https://www.python.org/)  
-[![GLSL](https://img.shields.io/badge/GLSL-0A192F?style=for-the-badge&logo=opengl&logoColor=00F0FF)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))  
+[![C++](https://img.shields.io/badge/C%2B%2B-0A192F?style=for-the-badge&logo=c%2B%2B&logoColor=00F0FF)](https://isocpp.org/)  
 [![Java](https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=openjdk&logoColor=00F0FF)](https://www.java.com/)                                     
 [![PHP](https://img.shields.io/badge/PHP-0A192F?style=for-the-badge&logo=php&logoColor=00F0FF)](https://www.php.net/)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=00F0FF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![TypeScript](https://img.shields.io/badge/TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=00F0FF)](https://www.typescriptlang.org/)  
+[![GLSL](https://img.shields.io/badge/GLSL-0A192F?style=for-the-badge&logo=opengl&logoColor=00F0FF)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
