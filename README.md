@@ -26,12 +26,6 @@ Machine Learning
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
 </p>
 
-## My Daily Drivers    
-[![Kubuntu](https://img.shields.io/badge/Kubuntu-0A192F?style=for-the-badge\&logo=kubuntu\&logoColor=00F0FF)](https://kubuntu.org/)    
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
-</p>
 
 
 ## Skills  
@@ -76,7 +70,7 @@ Machine Learning
 ## Competitive Programing 
 <div align="center">
   <a href="https://icpc.global/ICPCID/93F9MR2X69GY">
-    <img src="https://img.shields.io/badge/ICPC-0A192F?style=for-the-badge&logo=icloud&logoColor=00F0FF" alt="ICPC"/>
+    <img src="https://img.shields.io/badge/ICPC-0A192F?style=for-the-badge&logo=icpc&logoColor=00F0FF" alt="ICPC"/>
   </a>
   <a href="https://codeforces.com/profile/Zaid_Al_Habbal">
     <img src="https://img.shields.io/badge/Codeforces-0A192F?style=for-the-badge&logo=codeforces&logoColor=00F0FF" alt="Codeforces"/>
@@ -86,12 +80,21 @@ Machine Learning
   </a>
 </div>
 
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
 </p>
+
+## My Daily Drivers   
+<div align="center">
+  <a href="https://kubuntu.org/">
+     <img src="https://img.shields.io/badge/Kubuntu-0A192F?style=for-the-badge&logo=kubuntu&logoColor=00F0FF" alt="Kubuntu"/>  
+  </a>
+</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
+</p>
+
+
 
 
 ## GitHub Stats  
