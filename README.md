@@ -10,7 +10,7 @@
 
 ## About Me
 
-I’m **Zaid Al Habbal**, a fourth-year ITE student exploring the worlds of AI.
+I’m **Zaid Al Habbal**, a fourth-year ITE student exploring the worlds of AI. Currently, I focus on building **reproducible, explainable, and production-ready AI systems**, not just training models.
 
 - **Specialties**: AI, Back-end development, Computer Graphics.  
 - **Location**: Damascus, Syria.  
@@ -46,12 +46,29 @@ Machine Learning
 
 ### Frameworks & Tools  
 <p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-0A192F?style=for-the-badge&logo=fastapi&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/Streamlit-0A192F?style=for-the-badge&logo=streamlit&logoColor=00F0FF"/>
   <img src="https://img.shields.io/badge/Django-0A192F?style=for-the-badge&logo=django&logoColor=00F0FF"/>
   <img src="https://img.shields.io/badge/OpenGL-0A192F?style=for-the-badge&logo=opengl&logoColor=00F0FF"/>
   <img src="https://img.shields.io/badge/Three.js-0A192F?style=for-the-badge&logo=three.js&logoColor=00F0FF"/>
   <img src="https://img.shields.io/badge/Laravel-0A192F?style=for-the-badge&logo=laravel&logoColor=00F0FF"/>
   <img src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=00F0FF"/>
   <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=00F0FF"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
+</p>
+
+## Python Scientific & AI Libraries  
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=plotly&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/Seaborn-0A192F?style=for-the-badge&logo=python&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/SciPy-0A192F?style=for-the-badge&logo=scipy&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0A192F?style=for-the-badge&logo=scikit-learn&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/Statsmodels-0A192F?style=for-the-badge&logo=python&logoColor=00F0FF"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00f0ff&height=2&section=footer"/>
