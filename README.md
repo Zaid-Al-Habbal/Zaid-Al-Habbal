@@ -61,6 +61,7 @@ Machine Learning
 
 ## Python Scientific & AI Libraries  
 <p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-0A192F?style=for-the-badge&logo=pytorch&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=plotly&logoColor=0FFF50"/>
