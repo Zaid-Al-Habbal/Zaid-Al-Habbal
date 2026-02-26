@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0FFF50&center=true&vCenter=true&width=600&lines=Ahlean+Habiby!+;Welcome+to+Zaid+Al+Habbal's+Hub;fourth-Year+ITE+Student;Back-End+%7C+AI+%7C+3D+Simulations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0FFF50&center=true&vCenter=true&width=600&lines=Ahlean+Habiby!+;Welcome+to+Zaid+Al+Habbal's+Hub;fourth-Year+ITE+Student;AI+Back-End+%7C+%7C+3D+Simulations" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student exploring the worlds of AI. 
 </p>
 
 ## Currently Learning  
-Machine Learning  
+Deep Learning  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0fff50&height=2&section=footer"/>
@@ -49,11 +49,11 @@ Machine Learning
   <img src="https://img.shields.io/badge/FastAPI-0A192F?style=for-the-badge&logo=fastapi&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/Streamlit-0A192F?style=for-the-badge&logo=streamlit&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/Django-0A192F?style=for-the-badge&logo=django&logoColor=0FFF50"/>
+  <img src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=0FFF50"/>
+  <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/OpenGL-0A192F?style=for-the-badge&logo=opengl&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/Three.js-0A192F?style=for-the-badge&logo=three.js&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/Laravel-0A192F?style=for-the-badge&logo=laravel&logoColor=0FFF50"/>
-  <img src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=0FFF50"/>
-  <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=0FFF50"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0fff50&height=2&section=footer"/>
@@ -79,7 +79,6 @@ Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=0FFF50"/>
-  <img src="https://img.shields.io/badge/SQLite-0A192F?style=for-the-badge&logo=sqlite&logoColor=0FFF50"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0fff50&height=2&section=footer"/>
