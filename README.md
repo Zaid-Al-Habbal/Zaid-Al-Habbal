@@ -10,7 +10,7 @@
 
 ## About Me
 
-I’m **Zaid Al Habbal**, a fourth-year ITE student exploring the worlds of AI. Currently, I focus on building **reproducible, explainable, and production-ready AI systems**, not just training models.
+I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently, I focus on building **reproducible, explainable, and production-ready AI systems**.
 
 - **Specialties**: AI, Back-end development, Computer Graphics.  
 - **Location**: Damascus, Syria.  
