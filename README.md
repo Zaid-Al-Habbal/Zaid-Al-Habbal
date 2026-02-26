@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0FFF50&center=true&vCenter=true&width=600&lines=Ahlean+Habiby!+;Welcome+to+Zaid+Al+Habbal's+Hub;fourth-Year+ITE+Student;AI+Back-End+%7C+%7C+3D+Simulations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&color=0FFF50&center=true&vCenter=true&width=600&lines=Ahlean+Habiby!+;Welcome+to+Zaid+Al+Habbal's+Hub;fourth-Year+ITE+Student;I+Build:;AI+Systems;+Back-End+APIs;3D+Simulations" alt="Typing SVG" />
 </h1>
 
 <p align="center">
