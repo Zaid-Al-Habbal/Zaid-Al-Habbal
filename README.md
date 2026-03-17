@@ -1,4 +1,3 @@
-<!-- Banner -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&color=0FFF50&center=true&vCenter=true&width=600&lines=Ahlean+Habiby!+;Welcome+to+Zaid+Al+Habbal's+Hub;fourth-Year+ITE+Student;I+Build:;AI+Systems;+Back-End+APIs;3D+Simulations" alt="Typing SVG" />
 </h1>
@@ -6,7 +5,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0fff50&height=2&section=footer"/>
 </p>
-
 
 ## About Me
 
@@ -25,8 +23,6 @@ Deep Learning
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0fff50&height=2&section=footer"/>
 </p>
-
-
 
 ## Skills  
 
@@ -59,17 +55,20 @@ Deep Learning
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0fff50&height=2&section=footer"/>
 </p>
 
-## Python Scientific & AI Libraries  
+## AI, Scientific & MLOps Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-0A192F?style=for-the-badge&logo=pytorch&logoColor=0FFF50"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=0FFF50"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-0A192F?style=for-the-badge&logo=huggingface&logoColor=0FFF50"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-0A192F?style=for-the-badge&logo=weightsandbiases&logoColor=0FFF50"/>
+  <img src="https://img.shields.io/badge/Optuna-0A192F?style=for-the-badge&logo=optuna&logoColor=0FFF50"/>
+  <img src="https://img.shields.io/badge/TorchMetrics-0A192F?style=for-the-badge&logo=pytorch&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=0FFF50"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0A192F?style=for-the-badge&logo=scikit-learn&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=plotly&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/Seaborn-0A192F?style=for-the-badge&logo=python&logoColor=0FFF50"/>
   <img src="https://img.shields.io/badge/SciPy-0A192F?style=for-the-badge&logo=scipy&logoColor=0FFF50"/>
-  <img src="https://img.shields.io/badge/scikit--learn-0A192F?style=for-the-badge&logo=scikit-learn&logoColor=0FFF50"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=0FFF50"/>
-  <img src="https://img.shields.io/badge/Statsmodels-0A192F?style=for-the-badge&logo=python&logoColor=0FFF50"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0fff50&height=2&section=footer"/>
@@ -111,9 +110,6 @@ Deep Learning
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0fff50&height=2&section=footer"/>
 </p>
 
-
-
-
 ## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Al-Habbal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=0FFF50&text_color=FFFFFF" />
@@ -129,4 +125,4 @@ Deep Learning
   <a href="https://t.me/Zaid_Al_Habbal"><img src="https://img.shields.io/badge/Telegram-0A192F?style=for-the-badge&logo=telegram&logoColor=0FFF50" /></a>
   <a href="mailto:alhabbalzaid10@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A192F?style=for-the-badge&logo=gmail&logoColor=0FFF50" /></a>
   <a href="https://www.linkedin.com/in/zaid-al-habbal-037525263"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=0FFF50" /></a>
-</p>  
+</p>
