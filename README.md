@@ -6,6 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0fff50&height=2&section=footer"/>
 </p>
 
+
 ## About Me
 
 I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently, I focus on building **reproducible, explainable, and production-ready AI systems**.
@@ -114,6 +115,10 @@ Deep Learning
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Al-Habbal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=0FFF50&text_color=FFFFFF" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=tokyonight&hide_border=true&background=0A192F&stroke=0FFF50&ring=0FFF50&fire=0FFF50&currStreakLabel=0FFF50" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zaid-Al-Habbal/Zaid-Al-Habbal/output/github-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 <p align="center">
