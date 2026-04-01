@@ -23,7 +23,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # Generates a dark mode SVG with your signature neon green snake
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#0FFF50
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#10DEC3
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
