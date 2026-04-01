@@ -6,6 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zaid-Al-Habbal&label=Profile%20views&color=10dec3&style=flat" alt="profile views"/>
+</p>
 
 ## About Me
 
