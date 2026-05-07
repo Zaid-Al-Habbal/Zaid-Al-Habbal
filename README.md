@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zaid-Al-Habbal&label=Profile%20views&color=10dec3&style=flat" alt="profile views"/>
 </p>
 
@@ -14,23 +10,18 @@
 
 I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently, I focus on building **reproducible, explainable, and production-ready AI systems**.
 
-- **Specialties**: AI, Back-end development, Computer Graphics.  
+- **Specialties**: AI Engineering, Back-end development, Computer Graphics.  
 - **Location**: Damascus, Syria.  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-## Currently Learning  
-Deep Learning  
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-## Skills  
-
-### Programming Languages  
+## Programming Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/C++-0A192F?style=for-the-badge&logo=c%2B%2B&logoColor=10DEC3"/>
@@ -44,7 +35,7 @@ Deep Learning
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-### Frameworks & Tools  
+## Frameworks & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-0A192F?style=for-the-badge&logo=fastapi&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Streamlit-0A192F?style=for-the-badge&logo=streamlit&logoColor=10DEC3"/>
@@ -59,35 +50,51 @@ Deep Learning
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-## AI, Scientific & MLOps Stack  
+## MLOps & AI Engineering Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-0A192F?style=for-the-badge&logo=pytorch&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/ZenML-0A192F?style=for-the-badge&logo=zenml&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-0A192F?style=for-the-badge&logo=huggingface&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Weights_&_Biases-0A192F?style=for-the-badge&logo=weightsandbiases&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Optuna-0A192F?style=for-the-badge&logo=optuna&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/Playwright-0A192F?style=for-the-badge&logo=playwright&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/Selenium-0A192F?style=for-the-badge&logo=selenium&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/Pydantic-0A192F?style=for-the-badge&logo=pydantic&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/uv-0A192F?style=for-the-badge&logo=python&logoColor=10DEC3"/>
+</p>
+
+
+## Scientific Libraries
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-0A192F?style=for-the-badge&logo=pytorch&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/TorchMetrics-0A192F?style=for-the-badge&logo=pytorch&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0A192F?style=for-the-badge&logo=scikit-learn&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/scikit--learn-0A192F?style=for-the-badge&logo=scikit-learn&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/SciPy-0A192F?style=for-the-badge&logo=scipy&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=plotly&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Seaborn-0A192F?style=for-the-badge&logo=python&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/SciPy-0A192F?style=for-the-badge&logo=scipy&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/PyMongo-0A192F?style=for-the-badge&logo=mongodb&logoColor=10DEC3"/>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-### Databases  
+## Databases  
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=10DEC3"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-## Competitive Programing 
+## Competitive Programming 
 <div align="center">
   <a href="https://icpc.global/ICPCID/93F9MR2X69GY">
     <img src="https://img.shields.io/badge/ICPC-0A192F?style=for-the-badge&logo=icpc&logoColor=10DEC3" alt="ICPC"/>
