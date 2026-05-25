@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Zaid-Al-Habbal&label=Profile%20views&color=10dec3&style=flat" alt="profile views"/>
 </p>
 
-## About Me
-
 I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently, I focus on building **reproducible, explainable, and production-ready AI systems**.
 
 - **Specialties**: AI Engineering, Back-end development, Computer Graphics.  
@@ -21,7 +19,7 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-## Programming Languages  
+### Programming Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/C++-0A192F?style=for-the-badge&logo=c%2B%2B&logoColor=10DEC3"/>
@@ -35,7 +33,7 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-## Frameworks & Tools  
+### Frameworks & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-0A192F?style=for-the-badge&logo=fastapi&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Streamlit-0A192F?style=for-the-badge&logo=streamlit&logoColor=10DEC3"/>
@@ -50,7 +48,7 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-## MLOps & AI Engineering Stack
+### MLOps & AI Engineering Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/ZenML-0A192F?style=for-the-badge&logo=zenml&logoColor=10DEC3"/>
@@ -65,7 +63,7 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
 </p>
 
 
-## Scientific Libraries
+### Scientific Libraries
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-0A192F?style=for-the-badge&logo=pytorch&logoColor=10DEC3"/>
@@ -84,7 +82,7 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-## Databases  
+### Databases  
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=10DEC3"/>
@@ -94,7 +92,7 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-## Competitive Programming 
+### Competitive Programming 
 <div align="center">
   <a href="https://icpc.global/ICPCID/93F9MR2X69GY">
     <img src="https://img.shields.io/badge/ICPC-0A192F?style=for-the-badge&logo=icpc&logoColor=10DEC3" alt="ICPC"/>
@@ -111,7 +109,7 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-## My Daily Drivers   
+### My Daily Drivers   
 <div align="center">
   <a href="https://kubuntu.org/">
      <img src="https://img.shields.io/badge/Kubuntu-0A192F?style=for-the-badge&logo=kubuntu&logoColor=10DEC3" alt="Kubuntu"/>  
@@ -121,7 +119,7 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-## GitHub Stats  
+### GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Al-Habbal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=10DEC3&text_color=FFFFFF" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=tokyonight&hide_border=true&background=0A192F&stroke=10DEC3&ring=10DEC3&fire=10DEC3&currStreakLabel=10DEC3" />
