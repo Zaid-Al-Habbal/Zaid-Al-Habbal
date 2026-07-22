@@ -38,7 +38,6 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
   <img src="https://img.shields.io/badge/FastAPI-0A192F?style=for-the-badge&logo=fastapi&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Streamlit-0A192F?style=for-the-badge&logo=streamlit&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Django-0A192F?style=for-the-badge&logo=django&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/OpenGL-0A192F?style=for-the-badge&logo=opengl&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Three.js-0A192F?style=for-the-badge&logo=three.js&logoColor=10DEC3"/>
@@ -48,7 +47,38 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
   <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
 </p>
 
-### MLOps & AI Engineering Stack
+### AI & LLM Engineering
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge&logo=langchain&logoColor=10DEC3"/>
+<img src="https://img.shields.io/badge/LangGraph-0A192F?style=for-the-badge&logo=langchain&logoColor=10DEC3"/>
+<img src="https://img.shields.io/badge/LlamaIndex-0A192F?style=for-the-badge&logo=llama&logoColor=10DEC3"/>
+<img src="https://img.shields.io/badge/vLLM-0A192F?style=for-the-badge&logo=nvidia&logoColor=10DEC3"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0A192F?style=for-the-badge&logo=huggingface&logoColor=10DEC3"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=10DEC3&height=2"/>
+</p>
+
+### Cloud • DevOps • AI Infrastructure
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Azure-0A192F?style=for-the-badge&logo=microsoftazure&logoColor=10DEC3"/>
+<img src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=10DEC3"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-0A192F?style=for-the-badge&logo=githubactions&logoColor=10DEC3"/>
+<img src="https://img.shields.io/badge/RunPod-0A192F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NVIDIA%20CUDA-0A192F?style=for-the-badge&logo=nvidia&logoColor=10DEC3"/>
+<img src="https://img.shields.io/badge/CI/CD-0A192F?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=10DEC3&height=2"/>
+</p>
+
+### MLOps
 
 <p align="center">
   <img src="https://img.shields.io/badge/ZenML-0A192F?style=for-the-badge&logo=zenml&logoColor=10DEC3"/>
@@ -75,7 +105,6 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
   <img src="https://img.shields.io/badge/SciPy-0A192F?style=for-the-badge&logo=scipy&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=plotly&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/Seaborn-0A192F?style=for-the-badge&logo=python&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/PyMongo-0A192F?style=for-the-badge&logo=mongodb&logoColor=10DEC3"/>
 </p>
 
 <p align="center">
@@ -84,6 +113,7 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
 
 ### Databases  
 <p align="center">
+  <img src="https://img.shields.io/badge/Qdrant-0A192F?style=for-the-badge&logo=qdrant&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=10DEC3"/>
   <img src="https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=10DEC3"/>
@@ -121,8 +151,8 @@ I’m **Zaid Al Habbal**, a fourth-year ITE student specialized in AI. Currently
 
 ### GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaid-Al-Habbal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=10DEC3&text_color=FFFFFF" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=tokyonight&hide_border=true&background=0A192F&stroke=10DEC3&ring=10DEC3&fire=10DEC3&currStreakLabel=10DEC3" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaid-Al-Habbal&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
