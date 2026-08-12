@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=10DEC3&center=true&vCenter=true&width=650&lines=Marhaba!+I'm+Zaid+Al+Habbal;AI+Engineer;ITE+@+Damascus+University;I+Build:;NLP+%26+Transformer+Systems;Production-Ready+ML+APIs;3D+Simulations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=7C94B8&center=true&vCenter=true&width=650&lines=Marhaba!+I'm+Zaid+Al+Habbal;AI+Engineer;ITE+@+Damascus+University;I+Build:;NLP+%26+Transformer+Systems;Production-Ready+ML+APIs;3D+Simulations" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zaid-Al-Habbal&label=Profile%20views&color=10dec3&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Zaid-Al-Habbal&label=Profile%20views&color=7C94B8&style=flat" alt="profile views"/>
 </p>
 
 I’m **Zaid Al Habbal**, an **AI engineer** and fourth-year ITE student at Damascus University. I build **end-to-end ML systems** — Generative AI, NLP, regression, and sequence modeling — from problem framing through experiment tracking to containerized serving, backed by strong algorithmic foundations from competitive programming.
@@ -14,7 +14,7 @@ I’m **Zaid Al Habbal**, an **AI engineer** and fourth-year ITE student at Dama
 - 📍 **Location**: Damascus, Syria
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C94B8&height=2&section=footer"/>
 </p>
 
 ### 🏗️ Featured Projects
@@ -41,96 +41,96 @@ I’m **Zaid Al Habbal**, an **AI engineer** and fourth-year ITE student at Dama
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C94B8&height=2&section=footer"/>
 </p>
 
 ### 🧰 Tech Stack
 
 **Programming Languages**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/C++-0A192F?style=for-the-badge&logo=c%2B%2B&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=openjdk&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/PHP-0A192F?style=for-the-badge&logo=php&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Bash-0A192F?style=for-the-badge&logo=gnubash&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/GLSL-0A192F?style=for-the-badge&logo=opengl&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/C++-0A192F?style=for-the-badge&logo=c%2B%2B&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=openjdk&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/PHP-0A192F?style=for-the-badge&logo=php&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Bash-0A192F?style=for-the-badge&logo=gnubash&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/GLSL-0A192F?style=for-the-badge&logo=opengl&logoColor=7C94B8"/>
 </p>
 
 **ML & Data Science**
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-0A192F?style=for-the-badge&logo=pytorch&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/TorchMetrics-0A192F?style=for-the-badge&logo=pytorch&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/scikit--learn-0A192F?style=for-the-badge&logo=scikit-learn&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/SciPy-0A192F?style=for-the-badge&logo=scipy&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=plotly&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Seaborn-0A192F?style=for-the-badge&logo=python&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/PyTorch-0A192F?style=for-the-badge&logo=pytorch&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/TorchMetrics-0A192F?style=for-the-badge&logo=pytorch&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0A192F?style=for-the-badge&logo=scikit-learn&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/SciPy-0A192F?style=for-the-badge&logo=scipy&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=plotly&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Seaborn-0A192F?style=for-the-badge&logo=python&logoColor=7C94B8"/>
 </p>
 
 **AI & LLM Engineering**
 <p align="center">
-  <img src="https://img.shields.io/badge/Hugging%20Face-0A192F?style=for-the-badge&logo=huggingface&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge&logo=langchain&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/LangGraph-0A192F?style=for-the-badge&logo=langchain&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-0A192F?style=for-the-badge&logo=llama&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/vLLM-0A192F?style=for-the-badge&logo=nvidia&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/ZenML-0A192F?style=for-the-badge&logo=zenml&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-0A192F?style=for-the-badge&logo=weightsandbiases&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Optuna-0A192F?style=for-the-badge&logo=optuna&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-0A192F?style=for-the-badge&logo=huggingface&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/LangChain-0A192F?style=for-the-badge&logo=langchain&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/LangGraph-0A192F?style=for-the-badge&logo=langchain&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-0A192F?style=for-the-badge&logo=llama&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/vLLM-0A192F?style=for-the-badge&logo=nvidia&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/ZenML-0A192F?style=for-the-badge&logo=zenml&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-0A192F?style=for-the-badge&logo=weightsandbiases&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Optuna-0A192F?style=for-the-badge&logo=optuna&logoColor=7C94B8"/>
 </p>
 
 **Backend, Cloud & DevOps**
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-0A192F?style=for-the-badge&logo=fastapi&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Azure-0A192F?style=for-the-badge&logo=microsoftazure&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Django-0A192F?style=for-the-badge&logo=django&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Streamlit-0A192F?style=for-the-badge&logo=streamlit&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Celery-0A192F?style=for-the-badge&logo=celery&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0A192F?style=for-the-badge&logo=githubactions&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/CI/CD-0A192F?style=for-the-badge&logo=circleci&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/FastAPI-0A192F?style=for-the-badge&logo=fastapi&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Azure-0A192F?style=for-the-badge&logo=microsoftazure&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Django-0A192F?style=for-the-badge&logo=django&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Streamlit-0A192F?style=for-the-badge&logo=streamlit&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Celery-0A192F?style=for-the-badge&logo=celery&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0A192F?style=for-the-badge&logo=githubactions&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/CI/CD-0A192F?style=for-the-badge&logo=circleci&logoColor=7C94B8"/>
   <img src="https://img.shields.io/badge/RunPod-0A192F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMC41IDMyIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZmlsbD0iIzEwREVDMyIgZD0iTTI2LjQgMjUuNEMyOC4wIDI0LjUgMjkuMCAyMi44IDI5LjAgMjEuMFYxMS4wQzI5LjAgOS4yIDI4LjAgNy41IDI2LjQgNi42TDE3LjcgMS41QzE2LjEgMC42IDE0LjIgMC42IDEyLjYgMS41TDMuOSA2LjZDMi4zIDcuNSAxLjMgOS4yIDEuMyAxMS4wVjIxLjBDMS4zIDIyLjggMi4zIDI0LjUgMy45IDI1LjRMMTIuNiAzMC41QzE0LjIgMzEuNCAxNi4xIDMxLjQgMTcuNyAzMC41TDI2LjQgMjUuNFpNMjYuNCAyMS4wQzI2LjQgMjEuOSAyNS45IDIyLjggMjUuMSAyMy4yTDIwLjYgMjUuOUMyMC4yIDI2LjEgMjAuMCAyNi4yIDE5LjggMjYuMkMxOS43IDI2LjIgMTkuNSAyNi4xIDE5LjQgMjYuMEMxOS4zIDI1LjkgMTkuMyAyNS42IDE5LjMgMjUuMlYxOS45QzE5LjMgMTkuMCAxOS44IDE4LjEgMjAuNiAxNy43TDIzLjEgMTYuM0MyMy40IDE2LjEgMjMuNiAxNi4wIDIzLjcgMTUuOUMyMy44IDE1LjcgMjMuOSAxNS42IDIzLjkgMTUuNEMyNC4wIDE1LjMgMjQuMCAxNS4xIDI0LjAgMTQuN0wyNC4wIDE0LjZDMjQuMCAxNC4wIDI0LjAgMTMuNyAyMy45IDEzLjVDMjMuOCAxMy40IDIzLjYgMTMuMyAyMy40IDEzLjNDMjMuMiAxMy4zIDIzLjAgMTMuNCAyMi41IDEzLjdMMTkuMyAxNS41QzE3LjggMTYuNCAxNi44IDE4LjEgMTYuOCAxOS45VjI3LjZDMTYuOCAyNy45IDE2LjYgMjguMSAxNi40IDI4LjNDMTUuNiAyOC43IDE0LjcgMjguNyAxMy45IDI4LjNMNS4xIDIzLjJDNC4zIDIyLjggMy45IDIxLjkgMy45IDIxLjBWMTUuOEMzLjkgMTUuNCAzLjkgMTUuMiA0LjAgMTUuMEM0LjAgMTQuOSA0LjIgMTQuOCA0LjMgMTQuOEM0LjUgMTQuOCA0LjcgMTQuOSA1LjEgMTUuMUw5LjYgMTcuN0MxMC4zIDE4LjIgMTAuOCAxOS4wIDEwLjggMTkuOVYyMi42QzEwLjggMjMuMCAxMC44IDIzLjIgMTAuOSAyMy40QzEwLjkgMjMuNSAxMS4wIDIzLjYgMTEuMSAyMy44QzExLjMgMjMuOSAxMS40IDI0LjAgMTEuOCAyNC4yTDExLjkgMjQuM0MxMi40IDI0LjUgMTIuNiAyNC43IDEyLjggMjQuN0MxMy4wIDI0LjYgMTMuMiAyNC41IDEzLjMgMjQuNEMxMy40IDI0LjIgMTMuNCAyMy45IDEzLjQgMjMuNFYxOS45QzEzLjQgMTguMSAxMi40IDE2LjQgMTAuOCAxNS41TDQuMyAxMS43QzQuMCAxMS42IDMuOSAxMS4zIDMuOSAxMS4wQzMuOSAxMC4xIDQuMyA5LjIgNS4xIDguOEwxMy45IDMuN0MxNC43IDMuMyAxNS42IDMuMyAxNi40IDMuN0wyMC45IDYuM0MyMS4zIDYuNiAyMS41IDYuNyAyMS42IDYuOEMyMS43IDcuMCAyMS43IDcuMSAyMS42IDcuM0MyMS41IDcuNCAyMS4zIDcuNSAyMC45IDcuOEwxNi4zIDEwLjRDMTUuNiAxMC45IDE0LjYgMTAuOSAxMy44IDEwLjRMMTEuMiA4LjlDMTEuMCA4LjggMTAuOCA4LjcgMTAuNyA4LjdDMTAuNiA4LjYgMTAuNSA4LjYgMTAuMyA4LjdDMTAuMiA4LjcgMTAuMSA4LjggOS44IDguOUw5LjUgOS4xQzkuMCA5LjQgOC43IDkuNSA4LjYgOS43QzguNiA5LjkgOC42IDEwLjEgOC42IDEwLjJDOC43IDEwLjQgOS4wIDEwLjYgOS41IDEwLjlMMTIuNSAxMi42QzE0LjEgMTMuNSAxNi4wIDEzLjUgMTcuNiAxMi42TDI0LjMgOC44QzI0LjUgOC42IDI0LjkgOC42IDI1LjEgOC44QzI1LjkgOS4yIDI2LjQgMTAuMSAyNi40IDExLjBWMjEuMFoiLz48L3N2Zz4%3D"/>
-  <img src="https://img.shields.io/badge/NVIDIA%20CUDA-0A192F?style=for-the-badge&logo=nvidia&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Playwright-0A192F?style=for-the-badge&logo=playwright&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Selenium-0A192F?style=for-the-badge&logo=selenium&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Pydantic-0A192F?style=for-the-badge&logo=pydantic&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/uv-0A192F?style=for-the-badge&logo=python&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Laravel-0A192F?style=for-the-badge&logo=laravel&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20CUDA-0A192F?style=for-the-badge&logo=nvidia&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Playwright-0A192F?style=for-the-badge&logo=playwright&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Selenium-0A192F?style=for-the-badge&logo=selenium&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Pydantic-0A192F?style=for-the-badge&logo=pydantic&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/uv-0A192F?style=for-the-badge&logo=python&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Laravel-0A192F?style=for-the-badge&logo=laravel&logoColor=7C94B8"/>
 </p>
 
 **Graphics & Simulation**
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenGL-0A192F?style=for-the-badge&logo=opengl&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Three.js-0A192F?style=for-the-badge&logo=three.js&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/OpenGL-0A192F?style=for-the-badge&logo=opengl&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Three.js-0A192F?style=for-the-badge&logo=three.js&logoColor=7C94B8"/>
 </p>
 
 **Databases**
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=10DEC3"/>
-  <img src="https://img.shields.io/badge/Qdrant-0A192F?style=for-the-badge&logo=qdrant&logoColor=10DEC3"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/Qdrant-0A192F?style=for-the-badge&logo=qdrant&logoColor=7C94B8"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C94B8&height=2&section=footer"/>
 </p>
 
 ### 🏆 Competitive Programming 
 <div align="center">
   <a href="https://icpc.global/ICPCID/93F9MR2X69GY">
-    <img src="https://img.shields.io/badge/ICPC-0A192F?style=for-the-badge&logo=icpc&logoColor=10DEC3" alt="ICPC"/>
+    <img src="https://img.shields.io/badge/ICPC-0A192F?style=for-the-badge&logo=icpc&logoColor=7C94B8" alt="ICPC"/>
   </a>
   <a href="https://codeforces.com/profile/Zaid_Al_Habbal">
-    <img src="https://img.shields.io/badge/Codeforces-0A192F?style=for-the-badge&logo=codeforces&logoColor=10DEC3" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-0A192F?style=for-the-badge&logo=codeforces&logoColor=7C94B8" alt="Codeforces"/>
   </a>
   <a href="https://atcoder.jp/users/Zaid_Al_Habbal">
-    <img src="https://img.shields.io/badge/AtCoder-0A192F?style=for-the-badge&logo=atcoder&logoColor=10DEC3" alt="AtCoder"/>
+    <img src="https://img.shields.io/badge/AtCoder-0A192F?style=for-the-badge&logo=atcoder&logoColor=7C94B8" alt="AtCoder"/>
   </a>
 </div>
 
@@ -139,7 +139,7 @@ I’m **Zaid Al Habbal**, an **AI engineer** and fourth-year ITE student at Dama
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C94B8&height=2&section=footer"/>
 </p>
 
 ### 📜 Certifications
@@ -148,22 +148,22 @@ I’m **Zaid Al Habbal**, an **AI engineer** and fourth-year ITE student at Dama
 - 📐 [**Mathematics for Machine Learning & Data Science Specialization**](https://coursera.org/share/746e08a50eb1470179c00706dc6d712f) — DeepLearning.AI
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C94B8&height=2&section=footer"/>
 </p>
 
 ### 🐧 My Daily Drivers   
 <div align="center">
   <a href="https://kubuntu.org/">
-     <img src="https://img.shields.io/badge/Kubuntu-0A192F?style=for-the-badge&logo=kubuntu&logoColor=10DEC3" alt="Kubuntu"/>  
+     <img src="https://img.shields.io/badge/Kubuntu-0A192F?style=for-the-badge&logo=kubuntu&logoColor=7C94B8" alt="Kubuntu"/>  
   </a>
 </div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C94B8&height=2&section=footer"/>
 </p>
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=tokyonight&hide_border=true&background=0A192F&stroke=10DEC3&ring=10DEC3&fire=10DEC3&currStreakLabel=10DEC3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=tokyonight&hide_border=true&background=0A192F&stroke=7C94B8&ring=7C94B8&fire=7C94B8&currStreakLabel=7C94B8" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaid-Al-Habbal&theme=tokyo-night&hide_border=true"/>
 </p>
 
@@ -172,12 +172,12 @@ I’m **Zaid Al Habbal**, an **AI engineer** and fourth-year ITE student at Dama
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=10dec3&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C94B8&height=2&section=footer"/>
 </p>
 
 <h2 align="center"> 🌐 Connect with Me </h2>
 <p align="center">
-  <a href="https://t.me/Zaid_Al_Habbal"><img src="https://img.shields.io/badge/Telegram-0A192F?style=for-the-badge&logo=telegram&logoColor=10DEC3" /></a>
-  <a href="mailto:alhabbalzaid10@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A192F?style=for-the-badge&logo=gmail&logoColor=10DEC3" /></a>
-  <a href="https://www.linkedin.com/in/zaid-al-habbal"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=10DEC3" /></a>
+  <a href="https://t.me/Zaid_Al_Habbal"><img src="https://img.shields.io/badge/Telegram-0A192F?style=for-the-badge&logo=telegram&logoColor=7C94B8" /></a>
+  <a href="mailto:alhabbalzaid10@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A192F?style=for-the-badge&logo=gmail&logoColor=7C94B8" /></a>
+  <a href="https://www.linkedin.com/in/zaid-al-habbal"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=7C94B8" /></a>
 </p>
