@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Zaid-Al-Habbal&label=Profile%20views&color=7C94B8&style=flat" alt="profile views"/>
 </p>
 
-I’m **Zaid Al Habbal**, an **AI engineer** and fourth-year ITE student at Damascus University. I build **end-to-end ML systems** — Generative AI, NLP, regression, and sequence modeling — from problem framing through experiment tracking to containerized serving, backed by strong algorithmic foundations from competitive programming.
+I’m **Zaid Al Habbal**, an **AI engineer** and fifth-year ITE student at Damascus University. I build **end-to-end ML systems** — Generative AI, NLP, regression, and sequence modeling — from problem framing through experiment tracking to containerized serving, backed by strong algorithmic foundations from competitive programming.
 
 - 🔭 **Focus**: reproducible, explainable, production-ready AI systems
 - 🎓 **Education**: B.S. Information Technology Engineering (AI), Damascus University, 2022–2027
