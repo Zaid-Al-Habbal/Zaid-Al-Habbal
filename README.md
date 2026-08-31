@@ -6,11 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=Zaid-Al-Habbal&label=Profile%20views&color=7C94B8&style=flat" alt="profile views"/>
 </p>
 
-I’m **Zaid Al Habbal**, an **AI engineer** and fifth-year ITE student at Damascus University. I build **end-to-end ML systems** — Generative AI, NLP, regression, and sequence modeling — from problem framing through experiment tracking to containerized serving, backed by strong algorithmic foundations from competitive programming.
+I’m **Zaid Al Habbal**, an **AI engineer** with strong problem-solving skills. Proven ability to build and deploy end-to-end AI/ML systems, including agents, RAG, NLP,
+regression, and sequence modeling, from problem framing through experiment tracking, evaluation, and containerized serving. Backed by strong algorithmic foundations from competitive programming.
 
 - 🔭 **Focus**: reproducible, explainable, production-ready AI systems
 - 🎓 **Education**: B.S. Information Technology Engineering (AI), Damascus University, 2022–2027
-- 🧭 **Specialties**: AI Engineering · Back-end Development · Computer Graphics
 - 📍 **Location**: Damascus, Syria
 
 <p align="center">
@@ -21,6 +21,7 @@ I’m **Zaid Al Habbal**, an **AI engineer** and fifth-year ITE student at Damas
 
 | Project | What it is | Key result |
 |---|---|---|
+| 🩺 [**Aria — Multi-Agent Medical Reasoning System**](https://zaid-amaneh.github.io/Aria-Website)<br>`LangGraph` `DeepEval` `FastAPI` `Qdrant` `PostgreSQL` `Azure` | A  6-step diagnostic loop (symptom extraction, entity mapping, hybrid disease retrieval, Bayesian probability estimation, entropy-minimizing question selection, empathetic Arabic rendering), a deterministic safety layer, hybrid RRF disease retrieval, and a synthetic Syrian-dialect evaluation harness, deployed to Azure with zero-trust OIDC CI/CD and auto-rollback | Emergency recall **0.98** · Symptom Mapping MRR of **0.878** |
 | 🛡️ [**Nontoxic World**](https://github.com/Zaid-Al-Habbal/nontoxic-world) · [🚀 Live Demo](https://zaid-al-habbal-nontoxic-world-site.hf.space/)<br>`PyTorch` `FastAPI` `Docker` `Streamlit` `HF Spaces` | Multi-label toxicity detection for online comments — full NLP pipeline with a 5-model ablation (TF-IDF → custom BBPE + BiGRU → BERT embeddings + scaled attention), handling 8.8:1 class imbalance via weighted BCELoss and per-label thresholds, tracked with W&B | Macro PR-AUC **0.69** (vs 0.62 baseline) |
 | 🧠 [**Attention Is All You Need**](https://github.com/Zaid-Al-Habbal/attention-is-all-you-need)<br>`PyTorch` `From Scratch` | Faithful from-scratch implementation of the Vaswani et al. (2017) Transformer for EN→DE translation — multi-head attention, sinusoidal encodings, label smoothing, warmup LR schedule, weight tying — as a modular, tested package | **BLEU 32.2** on Multi30k |
 | 🚗 [**Car Price Predictor**](https://github.com/Zaid-Al-Habbal/car-price-predictor) · [🚀 Live Demo](https://car-price-predictor-6i5d.onrender.com/)<br>`Scikit-learn` `Pandas` `FastAPI` `Docker` | End-to-end regression system for used-car prices — statistical hypothesis testing, interaction feature engineering, fuel-type mileage normalization, target-encoded brand effects with log-transformed target | Test **R² 0.96** |
@@ -78,6 +79,7 @@ I’m **Zaid Al Habbal**, an **AI engineer** and fifth-year ITE student at Damas
   <img src="https://img.shields.io/badge/LangGraph-0A192F?style=for-the-badge&logo=langchain&logoColor=7C94B8"/>
   <img src="https://img.shields.io/badge/LlamaIndex-0A192F?style=for-the-badge&logo=llama&logoColor=7C94B8"/>
   <img src="https://img.shields.io/badge/vLLM-0A192F?style=for-the-badge&logo=nvidia&logoColor=7C94B8"/>
+  <img src="https://img.shields.io/badge/DeepEval-0A192F?style=for-the-badge&logo=python&logoColor=7C94B8"/>
   <img src="https://img.shields.io/badge/ZenML-0A192F?style=for-the-badge&logo=zenml&logoColor=7C94B8"/>
   <img src="https://img.shields.io/badge/Weights_&_Biases-0A192F?style=for-the-badge&logo=weightsandbiases&logoColor=7C94B8"/>
   <img src="https://img.shields.io/badge/Optuna-0A192F?style=for-the-badge&logo=optuna&logoColor=7C94B8"/>
@@ -93,7 +95,7 @@ I’m **Zaid Al Habbal**, an **AI engineer** and fifth-year ITE student at Damas
   <img src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=7C94B8"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-0A192F?style=for-the-badge&logo=githubactions&logoColor=7C94B8"/>
   <img src="https://img.shields.io/badge/CI/CD-0A192F?style=for-the-badge&logo=circleci&logoColor=7C94B8"/>
-  <img src="https://img.shields.io/badge/RunPod-0A192F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMC41IDMyIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZmlsbD0iIzEwREVDMyIgZD0iTTI2LjQgMjUuNEMyOC4wIDI0LjUgMjkuMCAyMi44IDI5LjAgMjEuMFYxMS4wQzI5LjAgOS4yIDI4LjAgNy41IDI2LjQgNi42TDE3LjcgMS41QzE2LjEgMC42IDE0LjIgMC42IDEyLjYgMS41TDMuOSA2LjZDMi4zIDcuNSAxLjMgOS4yIDEuMyAxMS4wVjIxLjBDMS4zIDIyLjggMi4zIDI0LjUgMy45IDI1LjRMMTIuNiAzMC41QzE0LjIgMzEuNCAxNi4xIDMxLjQgMTcuNyAzMC41TDI2LjQgMjUuNFpNMjYuNCAyMS4wQzI2LjQgMjEuOSAyNS45IDIyLjggMjUuMSAyMy4yTDIwLjYgMjUuOUMyMC4yIDI2LjEgMjAuMCAyNi4yIDE5LjggMjYuMkMxOS43IDI2LjIgMTkuNSAyNi4xIDE5LjQgMjYuMEMxOS4zIDI1LjkgMTkuMyAyNS42IDE5LjMgMjUuMlYxOS45QzE5LjMgMTkuMCAxOS44IDE4LjEgMjAuNiAxNy43TDIzLjEgMTYuM0MyMy40IDE2LjEgMjMuNiAxNi4wIDIzLjcgMTUuOUMyMy44IDE1LjcgMjMuOSAxNS42IDIzLjkgMTUuNEMyNC4wIDE1LjMgMjQuMCAxNS4xIDI0LjAgMTQuN0wyNC4wIDE0LjZDMjQuMCAxNC4wIDI0LjAgMTMuNyAyMy45IDEzLjVDMjMuOCAxMy40IDIzLjYgMTMuMyAyMy40IDEzLjNDMjMuMiAxMy4zIDIzLjAgMTMuNCAyMi41IDEzLjdMMTkuMyAxNS41QzE3LjggMTYuNCAxNi44IDE4LjEgMTYuOCAxOS45VjI3LjZDMTYuOCAyNy45IDE2LjYgMjguMSAxNi40IDI4LjNDMTUuNiAyOC43IDE0LjcgMjguNyAxMy45IDI4LjNMNS4xIDIzLjJDNC4zIDIyLjggMy45IDIxLjkgMy45IDIxLjBWMTUuOEMzLjkgMTUuNCAzLjkgMTUuMiA0LjAgMTUuMEM0LjAgMTQuOSA0LjIgMTQuOCA0LjMgMTQuOEM0LjUgMTQuOCA0LjcgMTQuOSA1LjEgMTUuMUw5LjYgMTcuN0MxMC4zIDE4LjIgMTAuOCAxOS4wIDEwLjggMTkuOVYyMi42QzEwLjggMjMuMCAxMC44IDIzLjIgMTAuOSAyMy40QzEwLjkgMjMuNSAxMS4wIDIzLjYgMTEuMSAyMy44QzExLjMgMjMuOSAxMS40IDI0LjAgMTEuOCAyNC4yTDExLjkgMjQuM0MxMi40IDI0LjUgMTIuNiAyNC43IDEyLjggMjQuN0MxMy4wIDI0LjYgMTMuMiAyNC41IDEzLjMgMjQuNEMxMy40IDI0LjIgMTMuNCAyMy45IDEzLjQgMjMuNFYxOS45QzEzLjQgMTguMSAxMi40IDE2LjQgMTAuOCAxNS41TDQuMyAxMS43QzQuMCAxMS42IDMuOSAxMS4zIDMuOSAxMS4wQzMuOSAxMC4xIDQuMyA5LjIgNS4xIDguOEwxMy45IDMuN0MxNC43IDMuMyAxNS42IDMuMyAxNi40IDMuN0wyMC45IDYuM0MyMS4zIDYuNiAyMS41IDYuNyAyMS42IDYuOEMyMS43IDcuMCAyMS43IDcuMSAyMS42IDcuM0MyMS41IDcuNCAyMS4zIDcuNSAyMC45IDcuOEwxNi4zIDEwLjRDMTUuNiAxMC45IDE0LjYgMTAuOSAxMy44IDEwLjRMMTEuMiA4LjlDMTEuMCA4LjggMTAuOCA4LjcgMTAuNyA4LjdDMTAuNiA4LjYgMTAuNSA4LjYgMTAuMyA4LjdDMTAuMiA4LjcgMTAuMSA4LjggOS44IDguOUw5LjUgOS4xQzkuMCA5LjQgOC43IDkuNSA4LjYgOS43QzguNiA5LjkgOC42IDEwLjEgOC42IDEwLjJDOC43IDEwLjQgOS4wIDEwLjYgOS41IDEwLjlMMTIuNSAxMi42QzE0LjEgMTMuNSAxNi4wIDEzLjUgMTcuNiAxMi42TDI0LjMgOC44QzI0LjUgOC42IDI0LjkgOC42IDI1LjEgOC44QzI1LjkgOS4yIDI2LjQgMTAuMSAyNi40IDExLjBWMjEuMFoiLz48L3N2Zz4%3D"/>
+  <img src="https://img.shields.io/badge/RunPod-0A192F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMC41IDMyIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZmlsbD0iIzdDOTRCOCIgZD0iTTI2LjQgMjUuNEMyOC4wIDI0LjUgMjkuMCAyMi44IDI5LjAgMjEuMFYxMS4wQzI5LjAgOS4yIDI4LjAgNy41IDI2LjQgNi42TDE3LjcgMS41QzE2LjEgMC42IDE0LjIgMC42IDEyLjYgMS41TDMuOSA2LjZDMi4zIDcuNSAxLjMgOS4yIDEuMyAxMS4wVjIxLjBDMS4zIDIyLjggMi4zIDI0LjUgMy45IDI1LjRMMTIuNiAzMC41QzE0LjIgMzEuNCAxNi4xIDMxLjQgMTcuNyAzMC41TDI2LjQgMjUuNFpNMjYuNCAyMS4wQzI2LjQgMjEuOSAyNS45IDIyLjggMjUuMSAyMy4yTDIwLjYgMjUuOUMyMC4yIDI2LjEgMjAuMCAyNi4yIDE5LjggMjYuMkMxOS43IDI2LjIgMTkuNSAyNi4xIDE5LjQgMjYuMEMxOS4zIDI1LjkgMTkuMyAyNS42IDE5LjMgMjUuMlYxOS45QzE5LjMgMTkuMCAxOS44IDE4LjEgMjAuNiAxNy43TDIzLjEgMTYuM0MyMy40IDE2LjEgMjMuNiAxNi4wIDIzLjcgMTUuOUMyMy44IDE1LjcgMjMuOSAxNS42IDIzLjkgMTUuNEMyNC4wIDE1LjMgMjQuMCAxNS4xIDI0LjAgMTQuN0wyNC4wIDE0LjZDMjQuMCAxNC4wIDI0LjAgMTMuNyAyMy45IDEzLjVDMjMuOCAxMy40IDIzLjYgMTMuMyAyMy40IDEzLjNDMjMuMiAxMy4zIDIzLjAgMTMuNCAyMi41IDEzLjdMMTkuMyAxNS41QzE3LjggMTYuNCAxNi44IDE4LjEgMTYuOCAxOS45VjI3LjZDMTYuOCAyNy45IDE2LjYgMjguMSAxNi40IDI4LjNDMTUuNiAyOC43IDE0LjcgMjguNyAxMy45IDI4LjNMNS4xIDIzLjJDNC4zIDIyLjggMy45IDIxLjkgMy45IDIxLjBWMTUuOEMzLjkgMTUuNCAzLjkgMTUuMiA0LjAgMTUuMEM0LjAgMTQuOSA0LjIgMTQuOCA0LjMgMTQuOEM0LjUgMTQuOCA0LjcgMTQuOSA1LjEgMTUuMUw5LjYgMTcuN0MxMC4zIDE4LjIgMTAuOCAxOS4wIDEwLjggMTkuOVYyMi42QzEwLjggMjMuMCAxMC44IDIzLjIgMTAuOSAyMy40QzEwLjkgMjMuNSAxMS4wIDIzLjYgMTEuMSAyMy44QzExLjMgMjMuOSAxMS40IDI0LjAgMTEuOCAyNC4yTDExLjkgMjQuM0MxMi40IDI0LjUgMTIuNiAyNC43IDEyLjggMjQuN0MxMy4wIDI0LjYgMTMuMiAyNC41IDEzLjMgMjQuNEMxMy40IDI0LjIgMTMuNCAyMy45IDEzLjQgMjMuNFYxOS45QzEzLjQgMTguMSAxMi40IDE2LjQgMTAuOCAxNS41TDQuMyAxMS43QzQuMCAxMS42IDMuOSAxMS4zIDMuOSAxMS4wQzMuOSAxMC4xIDQuMyA5LjIgNS4xIDguOEwxMy45IDMuN0MxNC43IDMuMyAxNS42IDMuMyAxNi40IDMuN0wyMC45IDYuM0MyMS4zIDYuNiAyMS41IDYuNyAyMS42IDYuOEMyMS43IDcuMCAyMS43IDcuMSAyMS42IDcuM0MyMS41IDcuNCAyMS4zIDcuNSAyMC45IDcuOEwxNi4zIDEwLjRDMTUuNiAxMC45IDE0LjYgMTAuOSAxMy44IDEwLjRMMTEuMiA4LjlDMTEuMCA4LjggMTAuOCA4LjcgMTAuNyA4LjdDMTAuNiA4LjYgMTAuNSA4LjYgMTAuMyA4LjdDMTAuMiA4LjcgMTAuMSA4LjggOS44IDguOUw5LjUgOS4xQzkuMCA5LjQgOC43IDkuNSA4LjYgOS43QzguNiA5LjkgOC42IDEwLjEgOC42IDEwLjJDOC43IDEwLjQgOS4wIDEwLjYgOS41IDEwLjlMMTIuNSAxMi42QzE0LjEgMTMuNSAxNi4wIDEzLjUgMTcuNiAxMi42TDI0LjMgOC44QzI0LjUgOC42IDI0LjkgOC42IDI1LjEgOC44QzI1LjkgOS4yIDI2LjQgMTAuMSAyNi40IDExLjBWMjEuMFoiLz48L3N2Zz4="/>
   <img src="https://img.shields.io/badge/NVIDIA%20CUDA-0A192F?style=for-the-badge&logo=nvidia&logoColor=7C94B8"/>
   <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=7C94B8"/>
   <img src="https://img.shields.io/badge/Playwright-0A192F?style=for-the-badge&logo=playwright&logoColor=7C94B8"/>
@@ -153,8 +155,8 @@ I’m **Zaid Al Habbal**, an **AI engineer** and fifth-year ITE student at Damas
 
 ### 🐧 My Daily Drivers   
 <div align="center">
-  <a href="https://kubuntu.org/">
-     <img src="https://img.shields.io/badge/Kubuntu-0A192F?style=for-the-badge&logo=kubuntu&logoColor=7C94B8" alt="Kubuntu"/>  
+  <a href="https://fedoraproject.org/">
+     <img src="https://img.shields.io/badge/Fedora-0A192F?style=for-the-badge&logo=fedora&logoColor=7C94B8" alt="Fedora"/>  
   </a>
 </div>
 <p align="center">
@@ -163,13 +165,10 @@ I’m **Zaid Al Habbal**, an **AI engineer** and fifth-year ITE student at Damas
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaid-Al-Habbal&theme=tokyonight&hide_border=true&background=0A192F&stroke=3E4A5C&ring=3E4A5C&fire=3E4A5C&currStreakLabel=3E4A5C"/>
+  <img src="https://streak-stats.demolab.com/?user=Zaid-Al-Habbal&theme=tokyonight&hide_border=true&background=0A192F&stroke=3E4A5C&ring=3E4A5C&fire=3E4A5C&currStreakLabel=3E4A5C"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaid-Al-Habbal&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zaid-Al-Habbal/Zaid-Al-Habbal/output/github-snake-dark.svg" alt="Contribution Snake"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C94B8&height=2&section=footer"/>
