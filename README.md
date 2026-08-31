@@ -165,14 +165,7 @@ regression, and sequence modeling, from problem framing through experiment track
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zaid-Al-Habbal/Zaid-Al-Habbal/output/metrics.achievements.svg" alt="GitHub Achievements"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Zaid-Al-Habbal&theme=tokyonight&hide_border=true&background=0A192F&stroke=3E4A5C&ring=3E4A5C&fire=3E4A5C&currStreakLabel=3E4A5C"/>
-<img src="https://raw.githubusercontent.com/Zaid-Al-Habbal/Zaid-Al-Habbal/output/metrics.activity.svg" alt="GitHub Activity"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zaid-Al-Habbal/Zaid-Al-Habbal/output/github-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7C94B8&height=2&section=footer"/>
